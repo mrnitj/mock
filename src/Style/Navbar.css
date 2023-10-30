@@ -1,0 +1,10 @@
+.toggle{
+   position: relative;
+    left: 500px;
+}
+
+@media (max-width:560px){
+    .Navbar_Main_Stack{
+        flex-direction: column;
+    }
+}
